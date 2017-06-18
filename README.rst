@@ -13,7 +13,6 @@ Features
  - Turn on/off rooms connected to gateway
  - Change intensity of lights connected to gateway
  - Change intensity of rooms connected to gateway
- - <s>Sync gateway and generate app token</s>
 
 While this library is able to monitor and control lights connected to a TCP
 Connected gateway, it is not yet able to generate its own app token. To do
